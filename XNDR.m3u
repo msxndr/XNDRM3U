@@ -1,87 +1,125 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="A+.mx@SD" tvg-logo="" group-title="TV abierta",A + (1080p)
+#EXTINF:-1 tvg-id="AMas.mx@SD" tvg-logo="" group-title="TV abierta México",A+
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
-#EXTINF:-1 tvg-id="ADN40.mx@SD" tvg-logo="" group-title="TV abierta",ADN 40 (1080p)
+#EXTINF:-1 tvg-id="ADN40.mx@SD" tvg-logo="" group-title="TV abierta México",ADN40
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
-#EXTINF:-1 tvg-id="Azteca7.mx@SD" tvg-logo="https://i.imgur.com/UtFXjIn.png" group-title="TV abierta",Azteca 7 (1080p)
+#EXTINF:-1 tvg-id="Azteca7.mx@SD" tvg-logo="https://i.imgur.com/UtFXjIn.png" group-title="TV abierta México",Azteca 7 (1080p)
 http://187.245.231.226:8000/play/a0uz/index.m3u8
-#EXTINF:-1 tvg-id="AztecaUno.mx@SD" tvg-logo="https://i.imgur.com/rRxgBtI.png" group-title="TV abierta",Azteca Uno (1080p)
+#EXTINF:-1 tvg-id="Azteca7.mx@SD" tvg-logo="https://i.imgur.com/UtFXjIn.png" group-title="TV abierta México",Azteca 7 (Alt)
+https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
+#EXTINF:-1 tvg-id="AztecaUno.mx@SD" tvg-logo="https://i.imgur.com/rRxgBtI.png" group-title="TV abierta México",Azteca Uno (1080p)
 http://38.44.109.41:8003/play/a033/index.m3u8
-#EXTINF:-1 tvg-id="AztecaUno-1HR.mx@SD" tvg-logo="https://i.imgur.com/rRxgBtI.png" group-title="TV abierta",Azteca Uno -1HR (1080p)
-https://azt-oo.otteravision.com/out/v1/da53d7d388be437e92bf8f464018eb48/index.m3u8
-#EXTINF:-1 tvg-id="Canal5.mx@SD" tvg-logo="https://i.imgur.com/uZdVSoW.png" group-title="TV abierta",Canal 5 (Mexico) (1080p)
+#EXTINF:-1 tvg-id="AztecaUno.mx@SD" tvg-logo="https://i.imgur.com/rRxgBtI.png" group-title="TV abierta México",Azteca Uno (Alt)
+https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
+#EXTINF:-1 tvg-id="Canal5.mx@SD" tvg-logo="https://i.imgur.com/uZdVSoW.png" group-title="TV abierta México",Canal 5 (Mexico) (1080p)
 http://45.181.87.106/CANAL5HD/index.m3u8
-#EXTINF:-1 tvg-id="Canal5.mx@XETTDT" tvg-logo="https://i.imgur.com/cBC2Jre.png" group-title="TV abierta",Canal 5 (Mexico) XET-TDT (1080p)
+#EXTINF:-1 tvg-id="Canal5.mx@XETTDT" tvg-logo="https://i.imgur.com/cBC2Jre.png" group-title="TV abierta México",Canal 5 (Mexico) XET-TDT (1080p)
 http://45.5.118.152:8000/play/a03i/index.m3u8
-#EXTINF:-1 tvg-id="Canal9Resistencia.ar@SD" tvg-logo="https://i.imgur.com/xqgRFpC.png" group-title="TV abierta",Canal 9 Resistencia (720p)
-http://coninfo.net:1935/9linklivert/smil:9linkmultibr.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="CaracolHD2.co@SD" tvg-logo="https://i.imgur.com/Fww94l9.png" group-title="TV abierta",Caracol HD2 (1080p)
-http://181.78.14.26:4000/play/a00d/index.m3u8
-#EXTINF:-1 tvg-id="CaracolInternacional.co@SD" tvg-logo="https://i.imgur.com/h7LWbt5.png" group-title="TV abierta",Caracol Internacional (1080p)
-http://167.249.23.102:8000/play/a0ax/index.m3u8
-#EXTINF:-1 tvg-id="ElNueve.ar@SD" tvg-logo="https://i.imgur.com/cJHP7bU.png" group-title="TV abierta",El Nueve (1080p)
-http://15.204.246.24:8080/elnueveHD/index.m3u8
-#EXTINF:-1 tvg-id="ElTrece.ar@SD" tvg-logo="https://i.imgur.com/TrgBAdA.png" group-title="TV abierta",El Trece (1080p)
-http://15.204.246.24:8080/eltreceHD/index.m3u8
-#EXTINF:-1 tvg-id="ElTreceInternacionalLatinAmerica.ar@SD" tvg-logo="https://i.imgur.com/Vo6prbh.png" group-title="TV abierta",El Trece Internacional Latin America (1080p)
-http://200.7.99.59:8000/play/a0gm/index.m3u8
-#EXTINF:-1 tvg-id="Galavision.us@EastHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Galavision_Logo_2024.svg/960px-Galavision_Logo_2024.svg.png" group-title="TV abierta",Galavision East HD (1080p) [Geo-blocked]
-https://streaming-live-fcdn.api.prd.univisionnow.com/galaeast/galaeast.isml/hls/galaeast.m3u8
-#EXTINF:-1 tvg-id="Galavision.us@West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Galavision_Logo_2024.svg/960px-Galavision_Logo_2024.svg.png" group-title="TV abierta",Galavision West (720p)
-http://200.115.120.1:8000/play/ca128/index.m3u8
-#EXTINF:-1 tvg-id="Galavision.us@WestHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Galavision_Logo_2024.svg/960px-Galavision_Logo_2024.svg.png" group-title="TV abierta",Galavision West HD (1080p) [Geo-blocked]
-https://streaming-live-fcdn.api.prd.univisionnow.com/galawest/galawest.isml/hls/galawest.m3u8
-#EXTINF:-1 tvg-id="LasEstrellas.mx@SD" tvg-logo="https://i.imgur.com/g5ShxZ7.png" group-title="TV abierta",Las Estrellas (1080p)
+#EXTINF:-1 tvg-id="CanalCatorce.mx@SD" tvg-logo="https://graph.facebook.com/canalcatorcemx/picture?width=200&height=200" group-title="TV abierta México",Canal Catorce
+https://d3nljkrx6mjqra.cloudfront.net/out/v1/1b9d9efd27814b3b8dc570113ae54409/index.m3u8
+#EXTINF:-1 tvg-id="LasEstrellas.mx@SD" tvg-logo="https://i.imgur.com/g5ShxZ7.png" group-title="TV abierta México",Las Estrellas (1080p)
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
-#EXTINF:-1 tvg-id="LasEstrellasLatinAmerica.mx@SD" tvg-logo="https://i.imgur.com/g5ShxZ7.png" group-title="TV abierta",Las Estrellas Latin America (1080p)
+#EXTINF:-1 tvg-id="LasEstrellasLatinAmerica.mx@SD" tvg-logo="https://i.imgur.com/g5ShxZ7.png" group-title="TV abierta México",Las Estrellas Latin America (1080p)
 http://15.204.246.24:8080/LasEstrellasHD/index.m3u8
-#EXTINF:-1 tvg-id="MultimediosBajio.mx@SD" tvg-logo="https://i.imgur.com/4IGzNdq.png" group-title="TV abierta",Multimedios Bajio (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="MultimediosBajio.mx@SD" tvg-logo="https://i.imgur.com/4IGzNdq.png" group-title="TV abierta México",Multimedios Bajio (720p) [Not 24/7]
 https://mdstrm.com/live-stream-playlist/5d4b0fec848918070128c8cb.m3u8
-#EXTINF:-1 tvg-id="MultimediosCDMX.mx@SD" tvg-logo="https://i.imgur.com/4IGzNdq.png" group-title="TV abierta",Multimedios CDMX (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="MultimediosMonterrey.mx@SD" tvg-logo="https://innovatv.live/posters/1602426339229.png" group-title="TV abierta México",Multimedios Canal 6 Monterrey (Alt)
+http://51.79.18.128:8081/LATINO%7CMULTIMEDIOS/LATINO%7CMULTIMEDIOS/playlist.m3u8
+#EXTINF:-1 tvg-id="MultimediosCDMX.mx@SD" tvg-logo="https://i.imgur.com/4IGzNdq.png" group-title="TV abierta México",Multimedios CDMX (720p) [Not 24/7]
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
-#EXTINF:-1 tvg-id="MultimediosCiudadJuarez.mx@SD" tvg-logo="https://i.imgur.com/4IGzNdq.png" group-title="TV abierta",Multimedios Ciudad Juarez (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="MultimediosCiudadJuarez.mx@SD" tvg-logo="https://i.imgur.com/4IGzNdq.png" group-title="TV abierta México",Multimedios Ciudad Juarez (720p) [Not 24/7]
 https://mdstrm.com/live-stream-playlist/5d9e440d675235586a92be7f.m3u8
-#EXTINF:-1 tvg-id="MultimediosGuadalajara.mx@SD" tvg-logo="https://i.imgur.com/4IGzNdq.png" group-title="TV abierta",Multimedios Guadalajara (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="MultimediosGuadalajara.mx@SD" tvg-logo="https://i.imgur.com/4IGzNdq.png" group-title="TV abierta México",Multimedios Guadalajara (720p) [Not 24/7]
 https://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8
-#EXTINF:-1 tvg-id="MultimediosLaguna.mx@SD" tvg-logo="https://i.imgur.com/4IGzNdq.png" group-title="TV abierta",Multimedios Laguna (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="MultimediosLaguna.mx@SD" tvg-logo="https://i.imgur.com/4IGzNdq.png" group-title="TV abierta México",Multimedios Laguna (720p) [Not 24/7]
 https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
-#EXTINF:-1 tvg-id="MultimediosMonterrey.mx@SD" tvg-logo="https://i.imgur.com/4IGzNdq.png" group-title="TV abierta",Multimedios Monterrey (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="MultimediosMonterrey.mx@SD" tvg-logo="https://i.imgur.com/4IGzNdq.png" group-title="TV abierta México",Multimedios Monterrey (720p) [Not 24/7]
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
-#EXTINF:-1 tvg-id="MultimediosPuebla.mx@SD" tvg-logo="https://i.imgur.com/4IGzNdq.png" group-title="TV abierta",Multimedios Puebla (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="MultimediosPuebla.mx@SD" tvg-logo="https://i.imgur.com/4IGzNdq.png" group-title="TV abierta México",Multimedios Puebla (720p) [Not 24/7]
 https://mdstrm.com/live-stream-playlist/5d56ed29c92dd106ff01543b.m3u8
-#EXTINF:-1 tvg-id="MultimediosSaltillo.mx@SD" tvg-logo="https://i.imgur.com/4IGzNdq.png" group-title="TV abierta",Multimedios Saltillo (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="MultimediosSaltillo.mx@SD" tvg-logo="https://i.imgur.com/4IGzNdq.png" group-title="TV abierta México",Multimedios Saltillo (720p) [Not 24/7]
 https://mdstrm.com/live-stream-playlist/5d5d51a4e9a40e25f4a0332c.m3u8
-#EXTINF:-1 tvg-id="MultivisionCanal3.gt@SD" tvg-logo="https://i.imgur.com/6bdj2BV.jpg" group-title="TV abierta",Multivision Canal 3 (720p) [Not 24/7]
-https://stream.digitalgt.com:3136/live/multivisionlive.m3u8
-#EXTINF:-1 tvg-id="TeleSaltillo.mx@SD" tvg-logo="https://i.imgur.com/PgBtvgO.png" group-title="TV abierta",Tele Saltillo
-https://servilive.com:3879/live/telesaltillolive.m3u8
-#EXTINF:-1 tvg-id="Telemax.mx@XEWHTDT" tvg-logo="https://i.imgur.com/klhTyDU.png" group-title="TV abierta",Telemax (Mexico) XEWH-TDT (1080p)
+#EXTINF:-1 tvg-id="Nueve.mx@SD" tvg-logo="https://innovatv.live/posters/1607834854438.jpg" group-title="TV abierta México",Nueve (Canal 9)
+http://51.79.18.128:8081/LATINO%7CNUEVE/LATINO%7CNUEVE/playlist.m3u8
+#EXTINF:-1 tvg-id="TelevisaMonterrey.mx@SD" tvg-logo="https://innovatv.live/posters/1602426103378.png" group-title="TV abierta México",Televisa Monterrey
+http://51.79.18.128:8081/LATINO%7CTELEVISAMTY/LATINO%7CTELEVISAMTY/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal10Chetumal.mx@SD" tvg-logo="http://i.imgur.com/eGvLDVR.png" group-title="TV local y regional México",Canal 10 Chetumal
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal26Aguascalientes.mx@SD" tvg-logo="" group-title="TV local y regional México",Canal 26 Aguascalientes
+http://streamingcws10.com:1935/telemetrika3/videotelemetrika3/.m3u8
+#EXTINF:-1 tvg-id="Canal4Monclova.mx@SD" tvg-logo="" group-title="TV local y regional México",Canal 4 Monclova
+http://162.241.190.126:1935/live/canal4/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal66Mexicali.mx@SD" tvg-logo="https://innovatv.live/posters/1602292937158.png" group-title="TV local y regional México",Canal 66 Mexicali
+http://51.79.18.128:8081/LATINO%7CCANAL66MEXICALI/LATINO%7CCANAL66MEXICALI/playlist.m3u8
+#EXTINF:-1 tvg-id="JaliscoTV.mx@SD" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/02/Jalisco-TV-2-en-vivo-Online-218x150.png" group-title="TV local y regional México",Jalisco TV
+https://5fa5de1a545ae.streamlock.net/sisjalisciense/sisjalisciense/playlist.m3u8
+#EXTINF:-1 tvg-id="RTQQueretaro.mx@SD" tvg-logo="" group-title="TV local y regional México",RTQ Querétaro
+http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8
+#EXTINF:-1 tvg-id="Telemax.mx@XEWHTDT" tvg-logo="https://i.imgur.com/klhTyDU.png" group-title="TV local y regional México",Telemax (Mexico) XEWH-TDT (1080p)
 https://s5.mexside.net:1936/telemax/telemax/playlist.m3u8
-#EXTINF:-1 tvg-id="Telemundo.us@East" tvg-logo="https://imgx.fubo.tv/station_logos/telemundo_c.png" group-title="TV abierta",Telemundo (720p)
+#EXTINF:-1 tvg-id="TeleSaltillo.mx@SD" tvg-logo="https://i.imgur.com/PgBtvgO.png" group-title="TV local y regional México",Tele Saltillo
+https://servilive.com:3879/live/telesaltillolive.m3u8
+#EXTINF:-1 tvg-id="XHGVTDT.mx" tvg-logo="https://i.imgur.com/15kcNRb.png" group-title="TV local y regional México",TVMás XHGV-TDT (360p)
+https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal9Resistencia.ar@SD" tvg-logo="https://i.imgur.com/xqgRFpC.png" group-title="TV abierta Internacional",Canal 9 Resistencia (720p)
+http://coninfo.net:1935/9linklivert/smil:9linkmultibr.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="CaracolHD2.co@SD" tvg-logo="https://i.imgur.com/Fww94l9.png" group-title="TV abierta Internacional",Caracol HD2 (1080p)
+http://181.78.14.26:4000/play/a00d/index.m3u8
+#EXTINF:-1 tvg-id="CaracolInternacional.co@SD" tvg-logo="https://i.imgur.com/h7LWbt5.png" group-title="TV abierta Internacional",Caracol Internacional (1080p)
+http://167.249.23.102:8000/play/a0ax/index.m3u8
+#EXTINF:-1 tvg-id="ElNueve.ar@SD" tvg-logo="https://i.imgur.com/cJHP7bU.png" group-title="TV abierta Internacional",El Nueve (1080p)
+http://15.204.246.24:8080/elnueveHD/index.m3u8
+#EXTINF:-1 tvg-id="ElTrece.ar@SD" tvg-logo="https://i.imgur.com/TrgBAdA.png" group-title="TV abierta Internacional",El Trece (1080p)
+http://15.204.246.24:8080/eltreceHD/index.m3u8
+#EXTINF:-1 tvg-id="ElTreceInternacionalLatinAmerica.ar@SD" tvg-logo="https://i.imgur.com/Vo6prbh.png" group-title="TV abierta Internacional",El Trece Internacional Latin America (1080p)
+http://200.7.99.59:8000/play/a0gm/index.m3u8
+#EXTINF:-1 tvg-id="EstrellaTV.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/archive/9/99/20200205000404%21Estrella_TV_-_2020_logo.png" group-title="TV abierta Internacional",Estrella TV
+https://estrellatv-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Galavision.us@EastHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Galavision_Logo_2024.svg/960px-Galavision_Logo_2024.svg.png" group-title="TV abierta Internacional",Galavision East HD (1080p) [Geo-blocked]
+https://streaming-live-fcdn.api.prd.univisionnow.com/galaeast/galaeast.isml/hls/galaeast.m3u8
+#EXTINF:-1 tvg-id="Galavision.us@West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Galavision_Logo_2024.svg/960px-Galavision_Logo_2024.svg.png" group-title="TV abierta Internacional",Galavision West (720p)
+http://200.115.120.1:8000/play/ca128/index.m3u8
+#EXTINF:-1 tvg-id="Galavision.us@WestHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Galavision_Logo_2024.svg/960px-Galavision_Logo_2024.svg.png" group-title="TV abierta Internacional",Galavision West HD (1080p) [Geo-blocked]
+https://streaming-live-fcdn.api.prd.univisionnow.com/galawest/galawest.isml/hls/galawest.m3u8
+#EXTINF:-1 tvg-id="MultivisionCanal3.gt@SD" tvg-logo="https://i.imgur.com/6bdj2BV.jpg" group-title="TV abierta Internacional",Multivision Canal 3 (720p) [Not 24/7]
+https://stream.digitalgt.com:3136/live/multivisionlive.m3u8
+#EXTINF:-1 tvg-id="Telemundo.us@East" tvg-logo="https://imgx.fubo.tv/station_logos/telemundo_c.png" group-title="TV abierta Internacional",Telemundo (720p)
 http://190.11.225.124:5000/live/telemundo_hd/playlist.m3u8
-#EXTINF:-1 tvg-id="Telemundo.us@EastHD" tvg-logo="https://imgx.fubo.tv/station_logos/telemundo_c.png" group-title="TV abierta",Telemundo East HD (1080p)
+#EXTINF:-1 tvg-id="Telemundo.us@EastHD" tvg-logo="https://imgx.fubo.tv/station_logos/telemundo_c.png" group-title="TV abierta Internacional",Telemundo East HD (1080p)
 https://streamer1.nexgen.bz/TELEMUNDO/index.m3u8
-#EXTINF:-1 tvg-id="TelemundoInternacional.us@South" tvg-logo="https://i.imgur.com/j2O4ndp.png" group-title="TV abierta",Telemundo Internacional (1080p)
+#EXTINF:-1 tvg-id="TelemundoInternacional.us@South" tvg-logo="https://i.imgur.com/j2O4ndp.png" group-title="TV abierta Internacional",Telemundo Internacional (1080p)
 http://138.121.15.230:9002/TELEMUNDO/index.m3u8
-#EXTINF:-1 tvg-id="Univision.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/960px-Logo_Univision_2019.svg.png" group-title="TV abierta",Univision (1080p)
+#EXTINF:-1 tvg-id="Univision.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/960px-Logo_Univision_2019.svg.png" group-title="TV abierta Internacional",Univision (1080p)
 http://190.197.41.183/Univision/index.m3u8
-#EXTINF:-1 tvg-id="Univision.us@EastHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/960px-Logo_Univision_2019.svg.png" group-title="TV abierta",Univision East HD (1080p)
+#EXTINF:-1 tvg-id="Univision.us@EastHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/960px-Logo_Univision_2019.svg.png" group-title="TV abierta Internacional",Univision East HD (1080p)
 http://45.190.13.8/UnivisionHD/index.m3u8
-#EXTINF:-1 tvg-id="Univision.us@KMEXDT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/960px-Logo_Univision_2019.svg.png" group-title="TV abierta",Univision KMEX-DT [Geo-blocked]
+#EXTINF:-1 tvg-id="Univision.us@KMEXDT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/960px-Logo_Univision_2019.svg.png" group-title="TV abierta Internacional",Univision KMEX-DT [Geo-blocked]
 https://streaming-live-fcdn.api.prd.univisionnow.com/kmex/kmex.isml/hls/kmex.m3u8
-#EXTINF:-1 tvg-id="UnivisionLatinAmerica.mx@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/960px-Logo_Univision_2019.svg.png" group-title="TV abierta",Univision Latin America (1080p)
+#EXTINF:-1 tvg-id="UnivisionLatinAmerica.mx@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/960px-Logo_Univision_2019.svg.png" group-title="TV abierta Internacional",Univision Latin America (1080p)
 http://138.121.15.230:9002/UNIVISION/index.m3u8
-#EXTINF:-1 tvg-id="Univision.us@West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/960px-Logo_Univision_2019.svg.png" group-title="TV abierta",Univision West (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-id="Univision.us@West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/960px-Logo_Univision_2019.svg.png" group-title="TV abierta Internacional",Univision West (1080p) [Geo-blocked]
 https://streaming-live-fcdn.api.prd.univisionnow.com/uniwest/uniwest.isml/hls/uniwest.m3u8
-#EXTINF:-1 tvg-id="Univision.us@WGBODT" tvg-logo="https://i.imgur.com/5RIEi99.png" http-referrer="http://tv.univision.com/player/channel/univision-chicago" group-title="TV abierta",Univision WGBO-DT (2160p)
+#EXTINF:-1 tvg-id="Univision.us@WGBODT" tvg-logo="https://i.imgur.com/5RIEi99.png" http-referrer="http://tv.univision.com/player/channel/univision-chicago" group-title="TV abierta Internacional",Univision WGBO-DT (2160p)
 #EXTVLCOPT:http-referrer=http://tv.univision.com/player/channel/univision-chicago
 https://unidfp-nlds154.global.ssl.fastly.net/nlds/univisionnow/univision_chi2/as/live/univision_chi2_hd_pc.m3u8?t1=null
-#EXTINF:-1 tvg-id="Univision.us@WLTVDT" tvg-logo="https://i.imgur.com/Sr3EoK5.png" group-title="TV abierta",Univision WLTV-DT (720p)
+#EXTINF:-1 tvg-id="Univision.us@WLTVDT" tvg-logo="https://i.imgur.com/Sr3EoK5.png" group-title="TV abierta Internacional",Univision WLTV-DT (720p)
 http://168.228.44.241:9997/play/a09d/index.m3u8
 #EXTINF:-1 tvg-id="BuendiaTV.hn@SD" tvg-logo="https://i.imgur.com/m5hNyNE.png" group-title="Noticias",Buendia TV
 https://servilive.com:3508/stream/play.m3u8
+#EXTINF:-1 tvg-id="ELDEBER.bo@SD" tvg-logo="https://www.trabajopolis.bo/attachment/images/cw600_ch315_sw585_sh300_clfff_q100_id618378_8e3aaf1db590f10.jpeg" group-title="Noticias",EL DEBER (1080p)
+https://master.tucableip.com/eldebertv/index.m3u8
+#EXTINF:-1 tvg-id="EstrellaNews.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/29/Estrella_Media_-_2020_logo.png" group-title="Noticias",Estrella News México
+https://estrellanews-plex.amagi.tv/amRdirect/us_privacy=1---&did=55b5df5c-bf4f-509e-9e4f-8fcaddc6819d&dnt=0&X-Plex-Token=jt_tEBoUKZ3x61zvGrji&channelId=60089d97f682a3002c34829b/hls/amagi_hls_data_plexAAAAA-estrellanews-plex/CDN/768x432_1425600/index.m3u8
+#EXTINF:-1 tvg-id="Excelsior.mx@SD" tvg-logo="https://innovatv.live/posters/1602323352239.png" group-title="Noticias",Excélsior TV
+http://51.79.18.128:8081/LATINO%7CEXCELSIOR/LATINO%7CEXCELSIOR/playlist.m3u8
+#EXTINF:-1 tvg-id="ForoTV.mx@SD" tvg-logo="https://innovatv.live/posters/1602323431162.png" group-title="Noticias",Foro TV
+http://51.79.18.128:8081/LATINO%7CFOROTV/LATINO%7CFOROTV/playlist.m3u8
 #EXTINF:-1 tvg-id="HispanTV.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/Hispantv_logo.jpg" group-title="Noticias",Hispan TV
 https://cdnlive.presstv.ir/live/smil:live.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ImagenTV.mx@SD" tvg-logo="https://innovatv.live/posters/1602343838438.jpg" group-title="Noticias",Imagen TV
+http://51.79.18.128:8081/LATINO%7CIMAGENTV/LATINO%7CIMAGENTV/playlist.m3u8
+#EXTINF:-1 tvg-id="MilenioTelevision.mx@SD" tvg-logo="https://innovatv.live/posters/1602473447284.png" group-title="Noticias",Milenio Noticias
+http://51.79.18.128:8081/LATINO%7CMILENIONOTICIAS/LATINO%7CMILENIONOTICIAS/playlist.m3u8
 #EXTINF:-1 tvg-id="TeleFormula.mx@SD" tvg-logo="https://i.imgur.com/y0a0xwY.png" group-title="Noticias",TeleFormula (720p)
 https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
 #EXTINF:-1 tvg-id="AMCLatinAmerica.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png" group-title="Películas",AMC Latin America (1080p)
@@ -106,8 +144,8 @@ http://45.171.64.30:6060/play/a00i/index.m3u8
 http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
 #EXTINF:-1 tvg-id="MultiPremier.mx@SD" tvg-logo="https://i.imgur.com/H3PzGZW.png" group-title="Películas",MultiPremier (1080p)
 http://168.196.127.137:6001/play/a08n/index.m3u8
-#EXTINF:-1 tvg-id="SonyMoviesLatinAmerica.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/500px-Sony_Movies_Logo.svg.png" group-title="Películas",Sony Movies Latin America (1080p)
-http://38.252.238.18:8000/play/a01e/index.m3u8
+#EXTINF:-1 tvg-id="NuestraVision.us@SD" tvg-logo="https://prnewswire2-a.akamaihd.net/p/1893751/sp/189375100/thumbnail/entry_id/1_usk3hzv4/def_height/1654/def_width/3159/version/100011/type/2/q/100" group-title="Películas",Nuestra Visión
+https://siloh-ns1.plutotv.net/lilo/production/Nuestravision/master.m3u8
 #EXTINF:-1 tvg-id="SonyMoviesLatinAmerica.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/500px-Sony_Movies_Logo.svg.png" group-title="Películas",Sony Movies Latin America (1080p)
 http://38.252.238.18:8000/play/a01e/index.m3u8
 #EXTINF:-1 tvg-id="StudioUniversalLatinAmerica.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/960px-StudioUniversal2016.png" group-title="Películas",Studio Universal Latin America (1080p)
@@ -126,15 +164,16 @@ http://190.11.225.124:5000/live/axn_hd/playlist.m3u8
 http://200.115.120.1:8000/play/ca020/index.m3u8
 #EXTINF:-1 tvg-id="ElComisario.us@Spain" tvg-logo="https://i.imgur.com/XYt8utn.png" group-title="Series y Novelas",El Comisario
 https://jmp2.uk/plu-60c343007bcabe0007242aa6.m3u8
-#EXTINF:-1 tvg-id="Elencantadordeperros.us@Spain" tvg-logo="https://i.imgur.com/hYqjQ1n.png" group-title="Series y Novelas",El encantador de perros
-https://jmp2.uk/plu-60e45687313c5f0007bc8e94.m3u8
 #EXTINF:-1 tvg-id="FXLatinAmerica.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/960px-FX_International_logo.svg.png" group-title="Series y Novelas",FX Latin America (1080p)
 http://15.204.246.24:8080/FXHD/index.m3u8
-#EXTINF:-1 tvg-id="HBOLatinAmerica.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/960px-HBO_logo.svg.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18" group-title="Series y Novelas",HBO Latin America (1080p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
-https://streaming.onnethn.com/HBO/playlist.m3u8
 #EXTINF:-1 tvg-id="HBOPlusLatinAmerica.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logohboplus2019.svg/960px-Logohboplus2019.svg.png" group-title="Series y Novelas",HBO+ Latin America (720p) [Geo-blocked]
 http://15.204.246.24:8080/HBOPlusHD/index.m3u8
+#EXTINF:-1 tvg-id="UniversalCrime.us@East" tvg-logo="https://i.imgur.com/OwSlGMu.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" group-title="Series y Novelas",Universal Crime (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/universalcrime/playlist.m3u8
+#EXTINF:-1 tvg-id="HBOLatinAmerica.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/960px-HBO_logo.svg.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18" group-title="Series y Novelas",HBO Latin America (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
+https://streaming.onnethn.com/HBO/playlist.m3u8
 #EXTINF:-1 tvg-id="TelemundoTelenovelasClasicas.us@SD" tvg-logo="https://i.imgur.com/9bPcYIN.png" group-title="Series y Novelas",Telemundo Telenovelas Clasicas
 https://jmp2.uk/plu-5cf96cc422df39f1a338d165.m3u8
 #EXTINF:-1 tvg-id="TlnovelasLatinAmerica.mx@SD" tvg-logo="https://i.imgur.com/Rvm38Mu.png" group-title="Series y Novelas",Tlnovelas Latin America (1080p)
@@ -147,9 +186,6 @@ http://190.93.224.42/TNT-NOVELAS/index.m3u8
 http://168.196.127.137:6001/play/a095/index.m3u8
 #EXTINF:-1 tvg-id="TodoNovelas.es@SD" tvg-logo="https://i.imgur.com/NuYwGok.png" group-title="Series y Novelas",Todo Novelas (1080p)
 https://dtsszjrztq9ti.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yshah5p4v45g1/ToDoNovelas_ES.m3u8
-#EXTINF:-1 tvg-id="UniversalCrime.us@East" tvg-logo="https://i.imgur.com/OwSlGMu.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" group-title="Series y Novelas",Universal Crime (1080p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/universalcrime/playlist.m3u8
 #EXTINF:-1 tvg-id="UniversalTVLatinAmerica.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/960px-Universal_TV_logo.svg.png" group-title="Series y Novelas",Universal TV Latin America (1080p)
 http://15.204.246.24:8080/UniversalHD/index.m3u8
 #EXTINF:-1 tvg-id="UnivisionTlnovelas.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Univision_tlnovelas_%282019%29.svg/960px-Univision_tlnovelas_%282019%29.svg.png" group-title="Series y Novelas",Univision Tlnovelas (1080p)
@@ -158,10 +194,10 @@ http://45.6.4.35/TELENOVELAS/index.m3u8
 http://38.134.250.110:8000/play/a029/index.m3u8
 #EXTINF:-1 tvg-id="WarnerTV.cz@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c7/WarnerTV_2021.svg/revision/latest/scale-to-width-down/1000?cb=20230818123400" group-title="Series y Novelas",Warner TV
 http://88.212.15.17/live/warner_tv/index.m3u8
-#EXTINF:-1 tvg-id="AELatinAmerica.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/960px-A%26E_Network_logo.svg.png" group-title="Entretenimiento",A&E Latin America (1080p)
-http://138.121.15.230:9002/A&E/index.m3u8
 #EXTINF:-1 tvg-id="AcapulcoShore.us@LatAm" tvg-logo="https://images.pluto.tv/channels/61a52615cbef2500072876e2/colorLogoPNG_1756972226445.png" group-title="Entretenimiento",Acapulco Shore
 https://jmp2.uk/plu-61a52615cbef2500072876e2.m3u8
+#EXTINF:-1 tvg-id="AELatinAmerica.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/960px-A%26E_Network_logo.svg.png" group-title="Entretenimiento",A&E Latin America (1080p)
+http://138.121.15.230:9002/A&E/index.m3u8
 #EXTINF:-1 tvg-id="AzClic.mx@SD" tvg-logo="https://i.imgur.com/ClqIQ4M.png" group-title="Entretenimiento",Az Clic (1080p)
 http://38.252.238.18:8000/play/a01g/index.m3u8
 #EXTINF:-1 tvg-id="bitMeLatinAmerica.mx@SD" tvg-logo="https://i.imgur.com/JgXQz6c.png" group-title="Entretenimiento",bitMe Latin America (1080p)
@@ -201,6 +237,8 @@ http://45.171.64.30:6060/play/a007/index.m3u8
 http://38.134.250.110:8000/play/a01y/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryWorld.us@LatinAmerica" tvg-logo="https://i.imgur.com/yNFmUkE.png" group-title="Documentales",Discovery World (1080p)
 http://168.196.127.137:6001/play/a097/index.m3u8
+#EXTINF:-1 tvg-id="Elencantadordeperros.us@Spain" tvg-logo="https://i.imgur.com/hYqjQ1n.png" group-title="Documentales",El encantador de perros
+https://jmp2.uk/plu-60e45687313c5f0007bc8e94.m3u8
 #EXTINF:-1 tvg-id="Historia.es@SD" tvg-logo="https://i.imgur.com/VUy8xIG.png" group-title="Documentales",Historia (1080p)
 https://d1k3vzh2ivy22k.cloudfront.net/Historia.m3u8
 #EXTINF:-1 tvg-id="Historia.es@HD" tvg-logo="https://i.imgur.com/VUy8xIG.png" group-title="Documentales",Historia HD (1080p)
@@ -211,14 +249,14 @@ http://138.121.15.230:9002/HISTORY-2/index.m3u8
 http://15.204.246.24:8080/HistoryHD/index.m3u8
 #EXTINF:-1 tvg-id="InvestigationDiscoveryLatinAmerica.us@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/960px-InvestigationDiscoveryLogo2020.svg.png" group-title="Documentales",Investigation Discovery Latin America South (1080p)
 http://38.65.175.84:8000/play/a0ch/index.m3u8
+#EXTINF:-1 tvg-id="NationalGeographicLatinAmerica.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" group-title="Documentales",National Geographic Latin America (1080p)
+http://15.204.246.24:8080/NatGeoHD/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographic.mx@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" group-title="Documentales",National Geographic (Mexico) (1080p)
 http://138.121.15.230:9002/NAT-GEO/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographic.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" group-title="Documentales",National Geographic (United States) (720p)
 http://212.5.144.156:8080/natgeo/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographic.us@HDEast" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" group-title="Documentales",National Geographic (United States) HD East (720p)
 http://198.58.104.90:8989/natgeo/index.m3u8
-#EXTINF:-1 tvg-id="NationalGeographicLatinAmerica.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" group-title="Documentales",National Geographic Latin America (1080p)
-http://15.204.246.24:8080/NatGeoHD/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographicWild.us@HDEast" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png" group-title="Documentales",National Geographic Wild (United States) HD East (720p)
 http://198.58.104.90:8989/natgeowild/index.m3u8
 #EXTINF:-1 tvg-id="NatureTime.ca@LATAM" tvg-logo="https://i.imgur.com/72JmyjM.png" group-title="Documentales",NatureTime LATAM (684p)
@@ -233,9 +271,6 @@ https://barinaslive1.boldmss.com/ESPN_2/ESPN_2.isml/ESPN_2.m3u8
 https://barinaslive1.boldmss.com/ESPN_3/ESPN_3.isml/ESPN_3.m3u8
 #EXTINF:-1 tvg-id="ESPN4.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/960px-ESPN_4_logo.svg.png" group-title="Deportes",ESPN 4 (Brazil) (1080p)
 http://181.78.197.59:8000/play/a07n/index.m3u8
-#EXTINF:-1 tvg-id="ESPN4.nl@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/960px-ESPN_4_logo.svg.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36" group-title="Deportes",ESPN 4 (Netherlands)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
-https://lb.iptvnetwork.net/ls28/10044/playlist.m3u8
 #EXTINF:-1 tvg-id="ESPN4LatinAmerica.us@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/960px-ESPN_4_logo.svg.png" group-title="Deportes",ESPN 4 Latin America (1080p)
 https://barinaslive1.boldmss.com/ESPN_4/ESPN_4.isml/ESPN_4.m3u8
 #EXTINF:-1 tvg-id="ESPN5LatinAmerica.us@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="Deportes",ESPN 5 Latin America (1080p)
@@ -246,11 +281,11 @@ https://barinaslive1.boldmss.com/ESPN_6/ESPN_6.isml/ESPN_6.m3u8
 https://barinaslive1.boldmss.com/ESPN_7/ESPN_7.isml/ESPN_7.m3u8
 #EXTINF:-1 tvg-id="ESPNLatinAmerica.us@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="Deportes",ESPN Latin America (1080p)
 https://barinaslive1.boldmss.com/ESPN/ESPN.isml/ESPN.m3u8
+#EXTINF:-1 tvg-id="ESPN4.nl@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/960px-ESPN_4_logo.svg.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36" group-title="Deportes",ESPN 4 (Netherlands)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+https://lb.iptvnetwork.net/ls28/10044/playlist.m3u8
 #EXTINF:-1 tvg-id="MultivisionSports.gt@SD" tvg-logo="https://i.imgur.com/wLjSSo2.jpg" group-title="Deportes",Multivision Sports (720p) [Not 24/7]
 https://stream.digitalgt.com:3605/live/multivisionsportslive.m3u8
-#EXTINF:-1 tvg-id="CartoonNetworkLatinAmerica.us@SouthAtlanticHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18" group-title="Infantil",Cartoon Network Latin America
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
-https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/cartoonnetwork.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="CartoonitoLatinAmerica.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/960px-Cartoonito_-_Logo_2021.svg.png" group-title="Infantil",Cartoonito Latin America (1080p)
 http://45.173.12.70:8000/play/a0hh
 #EXTINF:-1 tvg-id="DiscoveryKids.in@SD" tvg-logo="https://i.imgur.com/0iNQvoL.png" group-title="Infantil",Discovery Kids (720p)
@@ -271,6 +306,9 @@ http://190.14.10.19:16000/play/a02d/index.m3u8
 https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
 #EXTINF:-1 tvg-id="HBOFamilyLatinAmerica.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/960px-HBO_Family.svg.png" group-title="Infantil",HBO Family Latin America (1080p)
 http://45.171.64.30:6060/play/a00k/index.m3u8
+#EXTINF:-1 tvg-id="CartoonNetworkLatinAmerica.us@SouthAtlanticHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18" group-title="Infantil",Cartoon Network Latin America
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/cartoonnetwork.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="NickelodeonClasico.us@LatAm" tvg-logo="https://images.pluto.tv/channels/5ddd7c348520b40009c347e2/colorLogoPNG_1750157294622.png" group-title="Infantil",Nickelodeon Clasico (720p)
 https://jmp2.uk/plu-6824cda00101510f9eeaa011.m3u8
 #EXTINF:-1 tvg-id="NickelodeonClassico.us@BR" tvg-logo="https://images.pluto.tv/channels/5f12151794c1800007a8ae63/colorLogoPNG_1750157164414.png" group-title="Infantil",Nickelodeon Classico (720p)
@@ -301,12 +339,24 @@ https://stream.neux.site/memfs/e3f59eec-6b93-45e1-a2ab-c82381c2a9ec.m3u8
 http://190.61.47.54:8000/play/a029/index.m3u8
 #EXTINF:-1 tvg-id="TelehitMusica.mx@SD" tvg-logo="https://i.imgur.com/CofYjWh.png" group-title="Música",Telehit Musica (1080p)
 http://181.119.66.28:8081/TELEHIT-MUSICA/index.m3u8
-#EXTINF:-1 tvg-id="ElGourmet.ar@Panregional" tvg-logo="https://i.imgur.com/ByMyRI9.png" group-title="Cocina y Estilo de vida",El Gourmet (1080p)
+#EXTINF:-1 tvg-id="Teleritmo.mx@SD" tvg-logo="http://i.imgur.com/897e9wy.png" group-title="Música",Teleritmo
+http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
+#EXTINF:-1 tvg-id="Videorola.mx@SD" tvg-logo="" group-title="Música",Videorola
+https://d3b2epqdk0p7vd.cloudfront.net/out/v1/8a448b5e16384af4a3c8146a7b049c32/index.m3u8
+#EXTINF:-1 tvg-id="FashionBox.us@SD" tvg-logo="https://i.postimg.cc/RZ6x4Kmr/FASHIONBOOX.png" group-title="Cocina, moda y estilo de vida",FashionBox
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ee8d84bfb286e0007285aad/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff24a64-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dcad69d9-cbe2-4e00-a9bc-3c865cdc4424&userId=&serverSideAds=true
+#EXTINF:-1 tvg-id="FashionTV.fr@SD" tvg-logo="https://i.imgur.com/fcnRf1f.png" group-title="Cocina, moda y estilo de vida",Fashion TV
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="FTVMidnightSecret.fr@SD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052019/fashion_tv_2009_symbol.png?cVFRoMuFTxEWh0CmC_3DoU.NenvZVtOW&itok=auBIH1Oi" group-title="Cocina, moda y estilo de vida",FTV Midnight Secret
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ElGourmet.ar@Panregional" tvg-logo="https://i.imgur.com/ByMyRI9.png" group-title="Cocina, moda y estilo de vida",El Gourmet (1080p)
 http://15.204.246.24:8080/ElGourmetHD/index.m3u8
-#EXTINF:-1 tvg-id="FoodNetworkLatinAmerica.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/960px-Food_Network_New_Logo.png" group-title="Cocina y Estilo de vida",Food Network Latin America (1080p)
+#EXTINF:-1 tvg-id="FoodNetworkLatinAmerica.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/960px-Food_Network_New_Logo.png" group-title="Cocina, moda y estilo de vida",Food Network Latin America (1080p)
 http://168.196.127.137:6001/play/a09v/index.m3u8
-#EXTINF:-1 tvg-id="TLCLatinAmerica.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/960px-TLC_Logo.svg.png" group-title="Cocina y Estilo de vida",TLC Latin America (1080p)
+#EXTINF:-1 tvg-id="TLCLatinAmerica.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/960px-TLC_Logo.svg.png" group-title="Cocina, moda y estilo de vida",TLC Latin America (1080p)
 http://38.134.250.110:8000/play/a00n/index.m3u8
+#EXTINF:-1 tvg-id="POPSUGARFitness.us@SD" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/POPSUGARFitness_logo_dark.png" group-title="Cocina, moda y estilo de vida",POPSUGAR Fitness
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00594-groupninemediai-popsugar-plex/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=L5nSDEMpYfzaGH16TF7X&channelId=605a309dc5acdc002c7a20ac
 #EXTINF:-1 tvg-id="3ABNLatino.us@SD" tvg-logo="https://i.imgur.com/Ugb4AFo.png" group-title="Religioso",3ABN Latino (1080p)
 http://138.59.177.78:9999/play/a0a3/index.m3u8
 #EXTINF:-1 tvg-id="CanalCongreso.co@SD" tvg-logo="https://i.imgur.com/3VnL8dp.png" group-title="Legislativo",Canal Congreso (1080p)
@@ -315,27 +365,27 @@ http://138.121.15.230:9002/CANAL-CONGRESO/index.m3u8
 https://ccstreaming.packet.mx/WebRTCAppEE/streams/45.1_kd5oiNTTWO0gEOFc431277834.m3u8
 #EXTINF:-1 tvg-id="WeatherSpy.mx@SD" tvg-logo="https://i.imgur.com/KIEKOt1.png" group-title="Clima",WeatherSpy (Mexico) (720p)
 https://jukin-weatherspy-2-mx.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="AguacateTV.ve@SD" tvg-logo="https://i.ibb.co/wpWBsgf/IMG-20230705-154622.jpg" group-title="Variedades y locales",Aguacate TV (1080p)
+#EXTINF:-1 tvg-id="AguacateTV.ve@SD" tvg-logo="https://i.ibb.co/wpWBsgf/IMG-20230705-154622.jpg" group-title="Variedades y locales (Internacional)",Aguacate TV (1080p)
 https://streamtv.intervenhosting.net:3040/hybrid/play.m3u8
-#EXTINF:-1 tvg-id="CadenaTV.pe@HD" tvg-logo="https://i.imgur.com/stvzqzd.png" group-title="Variedades y locales",Cadena TV (720p) [Not 24/7]
-https://tv.bitstreaming.net:3789/live/cdntvlive.m3u8
-#EXTINF:-1 tvg-id="CadenaTV.pe@SD" tvg-logo="https://i.imgur.com/stvzqzd.png" group-title="Variedades y locales",Cadena TV SD
-https://live-evg10.tv360.bitel.com.pe/bitel/cadenatv/playlist.m3u8
-#EXTINF:-1 tvg-id="Cadena103TV.ar@SD" tvg-logo="https://i.imgur.com/vBsry35.png" group-title="Variedades y locales",Cadena103.TV
+#EXTINF:-1 tvg-id="Cadena103TV.ar@SD" tvg-logo="https://i.imgur.com/vBsry35.png" group-title="Variedades y locales (Internacional)",Cadena103.TV
 https://streamlov.alsolnet.com/cadena103/live/playlist.m3u8
-#EXTINF:-1 tvg-id="CanalLatino54.cl@SD" tvg-logo="https://i.imgur.com/mKUQoX7.png" group-title="Variedades y locales",Canal Latino 54 (360p)
+#EXTINF:-1 tvg-id="CadenaTV.pe@HD" tvg-logo="https://i.imgur.com/stvzqzd.png" group-title="Variedades y locales (Internacional)",Cadena TV (720p) [Not 24/7]
+https://tv.bitstreaming.net:3789/live/cdntvlive.m3u8
+#EXTINF:-1 tvg-id="CadenaTV.pe@SD" tvg-logo="https://i.imgur.com/stvzqzd.png" group-title="Variedades y locales (Internacional)",Cadena TV SD
+https://live-evg10.tv360.bitel.com.pe/bitel/cadenatv/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalLatino54.cl@SD" tvg-logo="https://i.imgur.com/mKUQoX7.png" group-title="Variedades y locales (Internacional)",Canal Latino 54 (360p)
 https://videostream.chileservidores.com:8081/latina/index.m3u8
-#EXTINF:-1 tvg-id="CascaraTV.do@SD" tvg-logo="https://i.imgur.com/DEUR7mB.png" group-title="Variedades y locales",Cascara TV (720p)
+#EXTINF:-1 tvg-id="CascaraTV.do@SD" tvg-logo="https://i.imgur.com/DEUR7mB.png" group-title="Variedades y locales (Internacional)",Cascara TV (720p)
 https://ss2.tvrdomi.com:1936/cascaratv/cascaratv/playlist.m3u8
-#EXTINF:-1 tvg-id="CasmaTV.pe@SD" tvg-logo="https://i.imgur.com/42aE0nm.jpeg" group-title="Variedades y locales",Casma TV (720p)
+#EXTINF:-1 tvg-id="CasmaTV.pe@SD" tvg-logo="https://i.imgur.com/42aE0nm.jpeg" group-title="Variedades y locales (Internacional)",Casma TV (720p)
 https://live-evg7.tv360.bitel.com.pe/bitel/casmatvSRT-TRA/playlist.m3u8
-#EXTINF:-1 tvg-id="ELDEBER.bo@SD" tvg-logo="https://www.trabajopolis.bo/attachment/images/cw600_ch315_sw585_sh300_clfff_q100_id618378_8e3aaf1db590f10.jpeg" group-title="Variedades y locales",EL DEBER (1080p)
-https://master.tucableip.com/eldebertv/index.m3u8
-#EXTINF:-1 tvg-id="GalaxiATeVe.do@SD" tvg-logo="https://grupomediosdelnorte.com/iptv/galaxia.png" group-title="Variedades y locales",GalaxiATeVe (360p)
+#EXTINF:-1 tvg-id="GalaxiATeVe.do@SD" tvg-logo="https://grupomediosdelnorte.com/iptv/galaxia.png" group-title="Variedades y locales (Internacional)",GalaxiATeVe (360p)
 https://streaming.grupomediosdelnorte.com:19360/galaxiateve/galaxiateve.m3u8
-#EXTINF:-1 tvg-id="TeleUno.cr@SD" tvg-logo="https://i.imgur.com/eRwYxc2.png" group-title="Variedades y locales",Tele Uno (720p) [Not 24/7]
-http://tv.teleunotv.cr:1935/TVUNO/TVUNO/playlist.m3u8
-#EXTINF:-1 tvg-id="TeleMas.cr@SD" tvg-logo="https://i.imgur.com/5Rc8mA5.png" group-title="Variedades y locales",TeleMas (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="MundoMas.ar@SD" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/03/Canal-Mundo-Colombia-en-vivo-Online.png" group-title="Variedades y locales (Internacional)",Mundo +
+http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="TeleMas.cr@SD" tvg-logo="https://i.imgur.com/5Rc8mA5.png" group-title="Variedades y locales (Internacional)",TeleMas (720p) [Not 24/7]
 https://acceso.mediosdecostarica.com:3192/hybrid/play.m3u8
-#EXTINF:-1 tvg-id="VivoTV.cl@SD" tvg-logo="https://i.imgur.com/kBRbCUb.png" group-title="Variedades y locales",Vivo TV
+#EXTINF:-1 tvg-id="TeleUno.cr@SD" tvg-logo="https://i.imgur.com/eRwYxc2.png" group-title="Variedades y locales (Internacional)",Tele Uno (720p) [Not 24/7]
+http://tv.teleunotv.cr:1935/TVUNO/TVUNO/playlist.m3u8
+#EXTINF:-1 tvg-id="VivoTV.cl@SD" tvg-logo="https://i.imgur.com/kBRbCUb.png" group-title="Variedades y locales (Internacional)",Vivo TV
 https://5eaccbab48461.streamlock.net:1936/8264/8264/playlist.m3u8
