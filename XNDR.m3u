@@ -1,8 +1,14 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="A+.mx@SD" tvg-logo="" group-title="TV abierta",A + (1080p)
+https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
+#EXTINF:-1 tvg-id="ADN40.mx@SD" tvg-logo="" group-title="TV abierta",ADN 40 (1080p)
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 #EXTINF:-1 tvg-id="Azteca7.mx@SD" tvg-logo="https://i.imgur.com/UtFXjIn.png" group-title="TV abierta",Azteca 7 (1080p)
 http://187.245.231.226:8000/play/a0uz/index.m3u8
 #EXTINF:-1 tvg-id="AztecaUno.mx@SD" tvg-logo="https://i.imgur.com/rRxgBtI.png" group-title="TV abierta",Azteca Uno (1080p)
 http://38.44.109.41:8003/play/a033/index.m3u8
+#EXTINF:-1 tvg-id="AztecaUno-1HR.mx@SD" tvg-logo="https://i.imgur.com/rRxgBtI.png" group-title="TV abierta",Azteca Uno -1HR (1080p)
+https://azt-oo.otteravision.com/out/v1/da53d7d388be437e92bf8f464018eb48/index.m3u8
 #EXTINF:-1 tvg-id="Canal5.mx@SD" tvg-logo="https://i.imgur.com/uZdVSoW.png" group-title="TV abierta",Canal 5 (Mexico) (1080p)
 http://45.181.87.106/CANAL5HD/index.m3u8
 #EXTINF:-1 tvg-id="Canal5.mx@XETTDT" tvg-logo="https://i.imgur.com/cBC2Jre.png" group-title="TV abierta",Canal 5 (Mexico) XET-TDT (1080p)
